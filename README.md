@@ -5,8 +5,8 @@ My Portfolio 👉 ✉️ **(https://ameer-hamza-portfolio68.vercel.app/)** 😊�
 
 - 🔭 **I’m currently working on:** Full Stack Projects.
 - 🌱 **I’m currently learning:** other JS frameworks and libraries.
-- 👯 **I’m looking to collaborate on:** Full Stack Projects
-- 💬 **Ask me about:** Collaboration, Tech, Entrepenuer, Leadership 
+- 👯 **I’m looking to collaborate on:** Full Stack Projects.
+- 💬 **Ask me about:** Collaboration, Tech, Entrepenuer, Leadership. 
 - 📫 **Email:** contacthamza456@gmail.com
 
 ## 🌐 Socials:
