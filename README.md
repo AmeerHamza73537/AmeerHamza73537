@@ -27,7 +27,7 @@ Currently:
 - 📚 Building my AI engineering skills — LLM APIs, LangChain, LangGraph, RAG pipelines
 - 🔨 Shipping full-stack projects and adding AI layers on top
 - 💼 Looking for junior/internship dev roles in Lahore or remote
-- ⚡ Also doing Amazon FBA & China sourcing work on the side
+- ⚡ Also working on AI Automations using n8n.
 
 ---
 
